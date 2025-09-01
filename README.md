@@ -1,4 +1,4 @@
-<h1>Hi, I'm NAME! </h1>
+<h1>Hi, I'm Oluwapamilerin Agbekorode! </h1>
 
 <h2>👨‍💻 Project type NAME:</h2>
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
 
 Oluwapamilerin Agbekorode (He/Him/His)
 CS Major @ Jax State University | Class of 2026
@@ -67,3 +67,4 @@ oagbekorode@stu.jsu.edu
 
 LinkedIn profile
 GitHub profile
+<
