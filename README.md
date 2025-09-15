@@ -1,42 +1,5 @@
 <h1>Hi, I'm Oluwapamilerin Agbekorode! </h1>
 
-<h2>👨‍💻 Project type NAME:</h2>
-
-  - [Project NAME](LINK TO PROJECT )
-  - [Project NAME](LINK TO PROJECT )
-
-<h2>👨‍💼 Project type NAME:</h2>
-
-  - [Project NAME](LINK TO PROJECT )
-  
-
-<h2>👨‍💼 Project type NAME:</h2>
-
-  - [Project NAME](LINK TO PROJECT )
-
-
-<h2>👨‍💻 Project type NAME:</h2>
-
-  - [Project NAME](LINK TO PROJECT )
-
-
-<h2>🧑🏻‍💻 Project type NAME:</h2>
-
-  - [Project NAME](LINK TO PROJECT )
-    
-<h2>💻 Project type NAME:</h2>
-
-  - [Project NAME](LINK TO PROJECT )
-
-<h2>🧑🏽‍💻 Project type NAME:</h2>
-
-  - [Project NAME](LINK TO PROJECT )
-
-<h2>📑 Certifications</h2>
-
-  - [NAME OF CERT](LINK TO IT)
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
