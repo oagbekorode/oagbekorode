@@ -2,6 +2,7 @@
 
 ## 🚀 Java Projects
 - [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
+- [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
 
 <h2> 🤳 Connect with me:</h2>
 
