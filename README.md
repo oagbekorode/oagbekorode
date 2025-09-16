@@ -1,5 +1,7 @@
 <h1>Hi, I'm Oluwapamilerin Agbekorode! </h1>
 
+## 🚀 Java Projects
+- [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
 
 <h2> 🤳 Connect with me:</h2>
 
