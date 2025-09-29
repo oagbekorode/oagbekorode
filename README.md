@@ -3,6 +3,9 @@
 ## 🚀 Java Projects
 - [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
 - [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
+  
+## SQL Projects
+- [COVID-19 Data Exploration](https://github.com/oagbekorode/covid-19_DataAnalyzation)
 
  ## Tableau Projects
 - [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
