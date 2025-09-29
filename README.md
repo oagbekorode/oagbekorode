@@ -4,6 +4,9 @@
 - [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
 - [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
 
+ ## Tableau Projects
+- [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
+
 <h2> 🤳 Connect with me:</h2>
 
   - [LinkedIn](https://www.linkedin.com/in/oagbekorode)
