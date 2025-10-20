@@ -5,6 +5,7 @@
 - [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
   
 ## SQL Projects
+- [Nashville Housing Data Cleaning](https://github.com/oagbekorode/NashvilleHousingCleaning)
 - [COVID-19 Data Exploration](https://github.com/oagbekorode/covid-19_DataAnalyzation)
 
  ## Tableau Projects
