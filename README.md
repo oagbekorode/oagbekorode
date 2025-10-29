@@ -5,6 +5,7 @@
 - [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
   
 ## SQL Projects
+- [APPLE Core Analysis](https://github.com/oagbekorode/APPLE_STOCK_INSIGHTS)
 - [Nashville Housing Data Cleaning](https://github.com/oagbekorode/NashvilleHousingCleaning)
 - [COVID-19 Data Exploration](https://github.com/oagbekorode/covid-19_DataAnalyzation)
 
