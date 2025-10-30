@@ -1,13 +1,14 @@
 <h1>Hi, I'm Oluwapamilerin Agbekorode! </h1>
 
-## 🚀 Java Projects
-- [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
-- [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
-  
 ## SQL Projects
 - [APPLE Core Analysis](https://github.com/oagbekorode/APPLE_STOCK_INSIGHTS)
 - [Nashville Housing Data Cleaning](https://github.com/oagbekorode/NashvilleHousingCleaning)
 - [COVID-19 Data Exploration](https://github.com/oagbekorode/covid-19_DataAnalyzation)
+
+## 🚀 Java Projects
+- [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
+- [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
+  
 
  ## Tableau Projects
 - [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
