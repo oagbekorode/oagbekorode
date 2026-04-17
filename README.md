@@ -8,7 +8,9 @@
 ## 🚀 Java Projects
 - [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
 - [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
-  
+
+## Data Engineering Projects 
+- [Papa Georgio ERD Model](https://github.com/oagbekorode/Papa-Georgio-Dimensional-Model)
 
  ## Tableau Projects
 - [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
