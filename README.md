@@ -1,5 +1,8 @@
 <h1>Hi, I'm Oluwapamilerin Agbekorode! </h1>
 
+ ## Dashboards Projects
+- [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
+
 ## SQL Projects
 - [APPLE Core Analysis](https://github.com/oagbekorode/APPLE_STOCK_INSIGHTS)
 - [Nashville Housing Data Cleaning](https://github.com/oagbekorode/NashvilleHousingCleaning)
@@ -12,8 +15,6 @@
 ## Data Engineering Projects 
 - [Papa Georgio ERD Model](https://github.com/oagbekorode/Papa-Georgio-Dimensional-Model)
 
- ## Tableau Projects
-- [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
 
 <h2> 🤳 Connect with me:</h2>
 
