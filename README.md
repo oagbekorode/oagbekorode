@@ -1,5 +1,7 @@
 <h1>Hi, I'm Oluwapamilerin Agbekorode! </h1>
 
+ ## [View Portfolio](https://oagbekorode.github.io/EmmanuelTech.github.io/) 
+
  ## Dashboards Projects
 - [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
 
