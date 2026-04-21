@@ -15,6 +15,7 @@
 - [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
 
 ## Data Engineering Projects 
+- [Capstone Project: Mortality Insights](https://github.com/oagbekorode/CapstoneProject_CS480)
 - [Papa Georgio ERD Model](https://github.com/oagbekorode/Papa-Georgio-Dimensional-Model)
 
 
