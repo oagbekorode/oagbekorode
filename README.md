@@ -1,51 +1,81 @@
-<h1>Hi, I'm Oluwapamilerin Agbekorode! </h1>
+<h1 align="center">Hi, I'm Oluwapamilerin Agbekorode 👋</h1>
 
- ## [View Portfolio](https://oagbekorode.github.io/EmmanuelTech.github.io/) 
+<p align="center">
+💻 Computer Science Major (Data Science) <br>
+📍 Jacksonville State University | Class of 2026
+</p>
 
- ## Dashboards Projects
-- [Covid Data Dashboard](https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes)
+<p align="center">
+<a href="https://oagbekorode.github.io/EmmanuelTech.github.io/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/oagbekorode">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+</p>
 
-## SQL Projects
-- [APPLE Core Analysis](https://github.com/oagbekorode/APPLE_STOCK_INSIGHTS)
-- [Nashville Housing Data Cleaning](https://github.com/oagbekorode/NashvilleHousingCleaning)
-- [COVID-19 Data Exploration](https://github.com/oagbekorode/covid-19_DataAnalyzation)
+<hr>
 
-## 🚀 Java Projects
-- [Sales Data Analyzer](https://github.com/oagbekorode/SalesDataAnalyzer)
-- [Heat Index Calculator](https://github.com/oagbekorode/HeatIndexCalculator)
+<h2>🚀 About Me</h2>
+<p>
+I am a Computer Science student with a concentration in <b>Data Science</b>, passionate about 
+building data-driven solutions, financial analytics, and interactive dashboards. 
+I enjoy working on projects that combine <b>data engineering, machine learning, and real-world insights</b>.
+</p>
 
-## Data Engineering Projects 
-- [Capstone Project: Mortality Insights](https://github.com/oagbekorode/CapstoneProject_CS480)
-- [Papa Georgio ERD Model](https://github.com/oagbekorode/Papa-Georgio-Dimensional-Model)
+<hr>
+
+<h2>📊 Dashboard Projects</h2>
+<ul>
+  <li>
+    <a href="https://public.tableau.com/app/profile/oluwapamilerin.agbekorode/viz/CovidDataVisualization_17591111570830/Dashboard1?publish=yes">
+      Covid Data Dashboard
+    </a>
+  </li>
+</ul>
+
+<hr>
+
+<h2>🗄️ SQL Projects</h2>
+<ul>
+  <li><a href="https://github.com/oagbekorode/APPLE_STOCK_INSIGHTS">Apple Stock Core Analysis</a></li>
+  <li><a href="https://github.com/oagbekorode/NashvilleHousingCleaning">Nashville Housing Data Cleaning</a></li>
+  <li><a href="https://github.com/oagbekorode/covid-19_DataAnalyzation">COVID-19 Data Exploration</a></li>
+</ul>
+
+<hr>
+
+<h2>☕ Java Projects</h2>
+<ul>
+  <li><a href="https://github.com/oagbekorode/SalesDataAnalyzer">Sales Data Analyzer</a></li>
+  <li><a href="https://github.com/oagbekorode/HeatIndexCalculator">Heat Index Calculator</a></li>
+</ul>
+
+<hr>
+
+<h2>⚙️ Data Engineering Projects</h2>
+<ul>
+  <li>
+    <a href="https://github.com/oagbekorode/CapstoneProject_CS480">
+      Capstone Project: Mortality Insights
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/oagbekorode/Papa-Georgio-Dimensional-Model">
+      Papa Georgio ERD Model
+    </a>
+  </li>
+</ul>
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>📫 Connect With Me</h2>
 
-  - [LinkedIn](https://www.linkedin.com/in/oagbekorode)
+<p>
+<a href="https://www.linkedin.com/in/oagbekorode">LinkedIn</a>
+</p>
 
+<hr>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
-
-Oluwapamilerin Agbekorode (He/Him/His)
-CS Major @ Jax State University | Class of 2026
-Student ID: 001262048
-+1 256 294 0422
-Jacksonville, AL
-oagbekorode@stu.jsu.edu
-
-LinkedIn profile
-GitHub profile
-<
+<p align="center">
+⭐ Always open to opportunities, collaborations, and building impactful solutions.
+</p>
