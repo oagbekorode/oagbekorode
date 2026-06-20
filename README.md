@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oluwapamilerin Agbekorode 👋</h1>
+<h1 align="center">Hi, I'm Emmanuel Agbekorode 👋</h1>
 
 <p align="center">
 💻 Computer Science Major (Data Science) <br>
